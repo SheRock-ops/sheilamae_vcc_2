@@ -6,4 +6,7 @@ body  {
     font-family: 'Poppins', sans-serif;
     background: #fff;
 }
-
+h1, h2
+p {
+    color: #000;
+}
